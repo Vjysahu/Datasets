@@ -1,0 +1,81 @@
+S.No.,RUNS/CENTURY,BALLS,COUNTRY,INNINGS,IN INDIA/NOT IN INDIA,WIN/LOSS,YEAR,OUT/NOT OUT,FORMAT
+1,107,114,SL,Second Innings,In India,Win,2009,OUT,ODI
+2,102,95,BAN,Second Innings,Out of India,Win,2010,NOT OUT,ODI
+3,118,121,AUS,Second Innings,In India,Win,2010,OUT,ODI
+4,105,104,NZ,First Innings,In India,Win,2010,OUT,ODI
+5,100,83,BAN,First Innings,Out of India,Win,2011,NOT OUT,ODI
+6,107,93,ENG,First Innings,Out of India,Loss,2011,OUT,ODI
+7,112,98,ENG,Second Innings,In India,Win,2011,NOT OUT,ODI
+8,117,123,WI,Second Innings,In India,Win,2011,OUT,ODI
+9,133,86,SL,Second Innings,Out of India,Win,2012,NOT OUT,ODI
+10,108,120,SL,First Innings,Out of India,Win,2012,OUT,ODI
+11,183,148,PAK,Second Innings,Out of India,Win,2012,OUT,ODI
+12,106,113,SL,First Innings,Out of India,Win,2012,OUT,ODI
+13,128,119,SL,Second Innings,Out of India,Win,2012,NOT OUT,ODI
+14,102,83,WI,First Innings,Out of India,Win,2013,OUT,ODI
+15,115,108,ZIM,Second Innings,Out of India,Win,2013,OUT,ODI
+16,100,52,AUS,Second Innings,In India,Win,2013,NOT OUT,ODI
+17,115,66,AUS,Second Innings,In India,Win,2013,NOT OUT,ODI
+18,123,111,NZ,Second Innings,Out of India,Loss,2014,OUT,ODI
+19,136,122,BAN,Second Innings,Out of India,Win,2014,OUT,ODI
+20,127,114,WI,First Innings,In India,Win,2014,OUT,ODI
+21,139,126,SL,Second Innings,In India,Win,2014,NOT OUT,ODI
+22,107,126,PAK,First Innings,Out of India,Win,2015,OUT,ODI
+23,138,140,RSA,Second Innings,In India,Win,2015,OUT,ODI
+24,117,117,AUS,First Innings,Out of India,Loss,2016,OUT,ODI
+25,106,92,AUS,Second Innings,Out of India,Loss,2016,OUT,ODI
+26,154,134,NZ,Second Innings,In India,Win,2016,NOT OUT,ODI
+27,122,105,ENG,Second Innings,In India,Win,2017,OUT,ODI
+28,111,115,WI,Second Innings,Out of India,Win,2017,NOT OUT,ODI
+29,131,96,SL,First Innings,Out of India,Win,2017,OUT,ODI
+30,110,116,SL,Second Innings,Out of India,Win,2017,NOT OUT,ODI
+31,121,125,NZ,First Innings,In India,Loss,2017,OUT,ODI
+32,113,106,NZ,First Innings,In India,Win,2017,OUT,ODI
+33,112,119,RSA,Second Innings,Out of India,Win,2018,OUT,ODI
+34,160,159,RSA,First Innings,Out of India,Win,2018,NOT OUT,ODI
+35,129,96,RSA,Second Innings,Out of India,Win,2018,NOT OUT,ODI
+36,140,107,WI,Second Innings,In India,Win,2018,OUT,ODI
+37,157,129,WI,First Innings,In India,Win,2018,OUT,ODI
+38,107,119,WI,Second Innings,In India,Loss,2018,OUT,ODI
+39,104,112,AUS,Second Innings,Out of India,Win,2019,OUT,ODI
+40,116,120,AUS,First Innings,In India,Win,2019,OUT,ODI
+41,123,95,AUS,Second Innings,In India,Loss,2019,OUT,ODI
+42,120,125,WI,First Innings,Out of India,Win,2019,OUT,ODI
+43,114,99,WI,Second Innings,Out of India,Win,2019,NOT OUT,ODI
+44,113,91,BAN,First Innings,Out of India,Win,2022,OUT,ODI
+45,113,87,SL,First Innings,In India,Win,2023,OUT,ODI
+46,166,110,SL,First Innings,In India,Win,2023,NOT OUT,ODI
+47,122,94,PAK,First Innings,Out of India,Win,2023,NOT OUT,ODI
+48,103,97,BAN,Second Innings,In India,Win,2023,NOT OUT,ODI
+49,101,121,RSA,First Innings,In India,Win,2023,NOT OUT,ODI
+50,117,113,NZ,First Innings,In India,Win,2023,OUT,ODI
+51,116,-,AUS,Second Innings,Out of India,Loss,2012,OUT,TEST
+52,103,-,NZ,Second Innings,In India,Win,2012,OUT,TEST
+53,103,-,ENG,Second Innings,In India,Draw,2012,OUT,TEST
+54,107,-,AUS,Second Innings,In India,Win,2013,OUT,TEST
+55,119,-,RSA,First Innings,Out of India,Draw,2013,OUT,TEST
+56,105,-,NZ,Fourth Innings,Out of India,Draw,2014,NOT OUT,TEST
+57,115,-,AUS,Second Innings,Out of India,Loss,2014,OUT,TEST
+58,141,-,AUS,Fourth Innings,Out of India,Loss,2014,OUT,TEST
+59,169,-,AUS,Second Innings,Out of India,Draw,2014,OUT,TEST
+60,147,-,AUS,Second Innings,Out of India,Draw,2015,OUT,TEST
+61,103,-,SL,Second Innings,Out of India,Loss,2015,OUT,TEST
+62,200,-,WI,First Innings,Out of India,Win,2016,OUT,TEST
+63,211,-,NZ,First Innings,In India,Win,2016,OUT,TEST
+64,167,-,ENG,First Innings,In India,Win,2016,OUT,TEST
+65,235,-,ENG,Second Innings,In India,Win,2016,OUT,TEST
+66,204,-,BAN,First Innings,In India,Win,2017,OUT,TEST
+67,103,-,SL,Third Innings,Out of India,Win,2017,NOT OUT,TEST
+68,104,-,SL,Third Innings,In India,Draw,2017,NOT OUT,TEST
+69,213,-,SL,Second Innings,In India,Win,2017,OUT,TEST
+70,243,-,SL,First Innings,In India,Draw,2017,OUT,TEST
+71,153,-,RSA,Second Innings,Out of India,Loss,2018,OUT,TEST
+72,149,-,ENG,Second Innings,Out of India,Loss,2018,OUT,TEST
+73,103,-,ENG,Third Innings,Out of India,Win,2018,OUT,TEST
+74,139,-,WI,First Innings,In India,Win,2018,OUT,TEST
+75,123,-,AUS,Second Innings,Out of India,Loss,2018,OUT,TEST
+76,254,-,RSA,First Innings,In India,Win,2019,NOT OUT,TEST
+77,136,-,BAN,Second Innings,In India,Win,2019,OUT,TEST
+78,186,-,AUS,Second Innings,In India,Draw,2023,OUT,TEST
+79,121,-,WI,First Innings,Out of India,Draw,2023,OUT,TEST
+80,122,-,AFG,First Innings,Out of India,Win,2022,NOT OUT,T20
